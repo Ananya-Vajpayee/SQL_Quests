@@ -1,27 +1,27 @@
-# 👩‍💻 LeetCode
+# LeetCode SQL Solutions
 
-### 🚀 My LeetCode Journey
+A collection of my **LeetCode SQL solutions**, organized by problem.
 
-This repository contains my solutions to **LeetCode problems** as I work through different topics and improve my problem-solving skills.
+## Topics Covered
 
-### 📚 Currently Practicing
+* Filtering
+* Aggregation
+* `GROUP BY`
+* `HAVING`
+* `JOIN`
+* Subqueries
+* Date and time functions
+* String functions
 
-* Data Structures & Algorithms
-* SQL / Database
-* Problem Solving
-* Competitive Programming
+## Solutions
 
-### 🛠️ Languages
+Each solution contains the SQL query used to solve the corresponding LeetCode problem.
 
-* Python
-* SQL (MySQL)
+## Goal
 
-### 🎯 Goal
+Practice SQL consistently and improve problem-solving skills for **internships and technical interviews**.
 
-Consistently solve problems, strengthen my DSA and SQL skills, and prepare for **technical interviews and software engineering internships**.
+## Language
 
-### 📌 Progress
+* MySQL
 
-I regularly add new problems and solutions as part of my LeetCode practice.
-
-> **Consistency > perfection.** 💻
