@@ -33,5 +33,6 @@ Practice SQL consistently and improve problem-solving skills for **internships a
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0183-customers-who-never-order/) | Easy |
+| [0197-rising-temperature](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
