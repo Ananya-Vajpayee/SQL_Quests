@@ -37,4 +37,5 @@ Practice SQL consistently and improve problem-solving skills for **internships a
 | [0197-rising-temperature](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0577-employee-bonus/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
