@@ -25,3 +25,11 @@ Practice SQL consistently and improve problem-solving skills for **internships a
 
 * MySQL
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0182-duplicate-emails/) | Easy |
+<!---LeetCode Topics End-->
