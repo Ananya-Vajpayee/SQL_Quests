@@ -42,4 +42,5 @@ Practice SQL consistently and improve problem-solving skills for **internships a
 | [0619-biggest-single-number](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1407-top-travellers](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/1407-top-travellers/) | Easy |
+| [1729-find-followers-count](https://github.com/Ananya-Vajpayee/SQL_Quests/tree/main/1729-find-followers-count/) | Easy |
 <!---LeetCode Topics End-->
